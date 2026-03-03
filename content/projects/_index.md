@@ -4,6 +4,6 @@ showDate: False
 showReadingTime: False
 showAuthor: False
 ---
-{{< alert "pencil" >}}
-This page is very much still under construction, many of my old projects still need to be added :)
+{{< alert "github" >}}
+All projects are fully available on Github (not all are listed here!)
 {{< /alert >}}
