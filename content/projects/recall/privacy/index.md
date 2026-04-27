@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-description: "Privacy policy for Lab Assistant"
+description: "Privacy policy for Recall"
 showDate: False
 showReadingTime: False
 showAuthor: False
